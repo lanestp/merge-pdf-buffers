@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/nyel-gh/merge-pdf-buffers#readme",
   "dependencies": {
-    "muhammara": "^3.0.0",
+    "muhammara": "^5.3.0",
     "memory-streams": "^0.1.3"
   },
   "devDependencies": {
